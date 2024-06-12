@@ -1,0 +1,10 @@
+git status 
+git add . / add * them vào modify
+git commit -a -m "noidung" gui thong tin toi stage
+git pull lấy thông tin từ GitHub
+git push đẩy thông tin lên GitHub
+git reset id khôi phục lại / git checkout id
+git reset head -- tên file cần loại bỏ khỏi commit 
+git log --oneline để xem lịch sử thay đổi
+git log -p để xem chi tiết file thay đổi như nào
+git commit --amend để sửa commit nếu không muốn thêm commit new
