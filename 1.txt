@@ -8,3 +8,9 @@ git reset head -- tên file cần loại bỏ khỏi commit
 git log --oneline để xem lịch sử thay đổi
 git log -p để xem chi tiết file thay đổi như nào
 git commit --amend để sửa commit nếu không muốn thêm commit new
+-----
+git branch xem các nhánh
+git branch + tên cần tạo: tạo branch
+git branch -m tên nhánh đang ở : đổi tên nhánh hiện tại
+git branch -m tên nhánh cần đổi / tên cần đổi: đổi tên nhánh khác
+git checkout id/branch để khôi phục file cũ hoặc đổi nhánh
