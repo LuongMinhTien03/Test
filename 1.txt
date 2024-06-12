@@ -14,3 +14,5 @@ git branch + tên cần tạo: tạo branch
 git branch -m tên nhánh đang ở : đổi tên nhánh hiện tại
 git branch -m tên nhánh cần đổi / tên cần đổi: đổi tên nhánh khác
 git checkout id/branch để khôi phục file cũ hoặc đổi nhánh
+git checkout -b newbranch: tạo branch và sang luôn
+git push origin + tên nhánh/git push --all origin: đưa lên server
